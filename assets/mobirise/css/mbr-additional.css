@@ -926,10 +926,38 @@ pre {
 .cid-qQbqO4oMhB .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qQdovTHOGU {
-  padding-top: 75px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-861x1080.jpg");
+.cid-qQAIeHpWhj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-qQAIeHpWhj .title {
+  margin-bottom: 2rem;
+}
+.cid-qQAIeHpWhj .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qQAIeHpWhj a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qQAIeHpWhj a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qQAIeHpWhj .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qQAIeHpWhj .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-qQAIeHpWhj H2 {
+  color: #ffffff;
+}
+.cid-qQAIeHpWhj LABEL {
+  color: #ffffff;
 }
 .cid-qQdokSxYVu {
   padding-top: 60px;
